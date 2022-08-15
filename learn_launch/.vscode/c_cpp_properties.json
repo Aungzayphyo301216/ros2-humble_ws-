@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/azp/new_ws/install/rom_msgs/include/**",
+        "/home/azp/new_ws/install/pub_sub/include/**",
+        "/home/azp/new_ws/install/motor_msgs/include/**",
+        "/home/azp/new_ws/install/action_tutorials_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/azp/new_ws/src/learn_launch/include/**",
+        "/home/azp/new_ws/src/test_launch/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
